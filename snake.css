@@ -6,6 +6,9 @@ body {
     margin: 0;
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
+    background-image: url('snake\ bck.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #container {
